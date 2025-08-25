@@ -12,6 +12,14 @@ It responds with charm, wit, and a warm British accent—executing shell command
 - Graceful quit with `quit` or `exit`
 
 ## 🚀 Usage
+
+First generate the Agent.py script:
+
+```bash
+jupyer nbconvert --to-script --no-prompt Agent.ipynb
+```
+Then, run the script with:
+
 ```bash
 python agent.py
 ```
