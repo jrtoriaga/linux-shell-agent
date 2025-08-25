@@ -1,0 +1,11 @@
+.git/
+.ipynb_checkpoints/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+Agent.py
