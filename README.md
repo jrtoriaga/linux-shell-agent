@@ -1,6 +1,6 @@
 # Linux Shell Agent
 
-A conversational Python agent powered by **LangChain**, **LangGraph**, and **Gemini** that assists with Linux Mint tasks.  
+A conversational Python agent powered by **LangChain**, **LangGraph**, and **Gemini** that assists with Linux tasks.  
 It responds with charm, wit, and a warm British accent—executing shell commands, managing files, and searching the web naturally.
 
 ## ✨ Features
